@@ -1,0 +1,16 @@
+{
+  "name": "home",
+  "version": "0.0.0",
+  "description": "Home Automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies":{
+    "ninja-blocks":"*",
+    "underscore":"*"
+  },
+  "repository": "",
+  "author": "Matt Boetger",
+  "license": "BSD"
+}

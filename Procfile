@@ -1,0 +1,1 @@
+ninja: node index.js
